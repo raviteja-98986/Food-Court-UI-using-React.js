@@ -1,16 +1,28 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<img width="900" height="900" alt="Screenshot 2025-12-07 124434" src="https://github.com/user-attachments/assets/bc2ec0d3-77d4-4fd0-8fe3-5212802760ef" />
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🌟 Leveling Up My Frontend Skills with a New React Project! 🌟
 
-## React Compiler
+Over the past few days, I worked on building a Food Court UI using React.js, focusing on writing clean and reusable components. This project helped me understand how real-world applications handle data, render UI dynamically, and maintain design consistency.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+🛠️ What I built:
+I created a simple yet eye-catchy interface that displays a list of food items using React components, props, and dynamic arrays. Each food card contains:
+🍽️ Food Name
+📸 Image
+🏷️ Price
+🏨 Hotel Name
+📝 Description
 
-## Expanding the ESLint configuration
+I also designed a cursive-style header and applied styling to ensure all cards maintain a consistent look and feel.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+💡 What I learned:
+✔️ How to structure a React project efficiently
+✔️ Breaking UI into small, reusable components
+✔️ Passing data using props
+✔️ Styling strategies in React (inline, external CSS)
+✔️ Creating responsive and uniform cards
+✔️ Writing maintainable and clean code
+
+🚀 Why I built this:
+I strongly believe learning happens through doing, so I’m building multiple hands-on mini-projects to gain confidence in frontend development. This small project helped me get more comfortable with React fundamentals and UI building.
